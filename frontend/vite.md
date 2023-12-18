@@ -1,6 +1,6 @@
 ### [Forever-pending requests to dev server](https://github.com/vitejs/vite/issues/5310)
 - **Problem:** Chromium-based browsers on Linux
-- **Fix:** Switch to Firefox
+- **Fix:** Switch to LibreWolf 
 - [vite troubleshooting](https://vitejs.dev/guide/troubleshooting.html#dev-server)
 - [related thread](https://github.com/vitejs/vite/issues/11468)
 
